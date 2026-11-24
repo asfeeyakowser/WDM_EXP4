@@ -1,5 +1,5 @@
 ### EX4 Implementation of Cluster and Visitor Segmentation for Navigation patterns
-### DATE: 
+### DATE: 20.11.2026
 ### AIM: To implement Cluster and Visitor Segmentation for Navigation patterns in Python.
 ### Description:
 <div align= "justify">Cluster visitor segmentation refers to the process of grouping or categorizing visitors to a website, 
@@ -14,7 +14,8 @@
 4) Visualize the result using matplotlib.
 
 ### Program:
-```import pandas as pd
+```
+import pandas as pd
 import matplotlib.pyplot as plt
 
 # Read CSV file
@@ -123,4 +124,3 @@ plt.show()
 ## Result:
 Thus Cluster and Visitor Segmentation for Navigation patterns in Python is implemented.
 
-### Result:
