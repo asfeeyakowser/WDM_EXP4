@@ -120,7 +120,10 @@ plt.grid(True)
 plt.show()
 ```
 ### Output:
+
 <img width="705" height="555" alt="image" src="https://github.com/user-attachments/assets/12a78f49-763f-4e3b-abd8-800e8c999bf1" />
-## Result:
+
+### Result:
+
 Thus Cluster and Visitor Segmentation for Navigation patterns in Python is implemented.
 
